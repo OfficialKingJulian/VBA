@@ -1,2 +1,3 @@
-# VBA-Helpers
-Collection of VBA helper functions and code snippets 
+# VBA Helpers
+
+A small collection of VBA helper functions and code snippets.
